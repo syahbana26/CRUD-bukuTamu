@@ -152,7 +152,7 @@
     <div class="card p-4 shadow rounded-4">
         <h2 class="fw-bold mb-4">Ubah Data Tamu</h2>
         <form action="" method="post">
-            <div class="mb-3">
+          <div class="mb-3">
                 <label for="nama" class="form-label">Nama</label>
                 <input type="text" id="nama" class="form-control" name="nama" required value="<?= $nama ?>">
             </div>
